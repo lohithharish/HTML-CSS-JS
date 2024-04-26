@@ -1,0 +1,3 @@
+For search box
+
+<input type=text placeholder="Search">s
